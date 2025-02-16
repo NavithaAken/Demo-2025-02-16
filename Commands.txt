@@ -1,0 +1,19 @@
+git init
+
+git add .
+
+git commit -m "your commit"
+
+git branch -M main
+
+git remote add origin https://github.com/icet-sharadha/Demo-114-115.git
+
+git push -u origin main
+
+--------------------------------------------
+
+git add .
+
+git commit -m "your commit"
+
+git push
